@@ -1,0 +1,3 @@
+// build time:Sun Jul 28 2019 16:07:35 GMT+0800 (GMT+08:00)
+var OriginTitile=document.title;var titleTime;document.addEventListener("visibilitychange",function(){if(document.hidden){$('[rel="icon"]').attr("href","/favicon.ico");document.title="╭(°A°`)╮ 页面崩溃啦 ~ | 量子广告！";clearTimeout(titleTime)}else{$('[rel="icon"]').attr("href","/favicon.ico");document.title="(ฅ>ω<*ฅ) 噫又好了~"+OriginTitile;titleTime=setTimeout(function(){document.title=OriginTitile},2e3)}});
+//rebuild by neat 
