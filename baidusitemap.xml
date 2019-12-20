@@ -3,35 +3,14 @@
 
 
     
-  <url>
-    <loc>http://blog.wuwii.com/springboot-25.html</loc>
-    <lastmod>2018-11-05T02:14:10.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（二十五）使用 Redis 实现数据缓存</title>
-        <pubTime>2018-03-17T14:08:08.000Z</pubTime>
-        
-        <tag>redis</tag>
-         
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-21.html</loc>
-    <lastmod>2018-08-09T08:33:30.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-8.html</loc>
+    <lastmod>2019-12-19T14:16:58.550Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（二十一）使用 EhCache 实现数据缓存</title>
-        <pubTime>2018-03-04T14:08:08.000Z</pubTime>
+        <title>学习Spring Boot：（八）Mybatis使用分页插件PageHelper</title>
+        <pubTime>2018-02-23T02:08:03.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -46,52 +25,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/diary-2018.html</loc>
-    <lastmod>2018-07-31T11:02:44.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-6.html</loc>
+    <lastmod>2019-12-19T14:16:58.549Z</lastmod>
     <data>
         <display>
-        <title>2018 年的想法</title>
-        <pubTime>2018-02-08T14:11:03.000Z</pubTime>
-        
-        <tag>想法</tag>
-         
-         
-           
-             
-              <breadCrumb title="想法" url="http://blog.wuwii.com/categories/%E6%83%B3%E6%B3%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-stream.html</loc>
-    <lastmod>2018-07-26T03:54:04.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java8 新特性Stream 的学习和使用方法</title>
-        <pubTime>2017-10-25T14:18:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-15.html</loc>
-    <lastmod>2018-07-18T01:44:13.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十五）使用Lombok来优雅的编码</title>
-        <pubTime>2018-02-23T02:08:16.000Z</pubTime>
+        <title>学习Spring Boot：（六） 集成Swagger2</title>
+        <pubTime>2018-02-23T02:08:03.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -106,1952 +45,14 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/slf4j-manager.html</loc>
-    <lastmod>2018-07-17T07:43:34.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-4.html</loc>
+    <lastmod>2019-12-19T14:16:58.548Z</lastmod>
     <data>
         <display>
-        <title>使用slf4j管理log4j中遇到的问题</title>
-        <pubTime>2017-11-03T09:38:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>log4j</tag>
-         
-        <tag>slf4j</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/linux-vim.html</loc>
-    <lastmod>2018-07-02T01:52:23.000Z</lastmod>
-    <data>
-        <display>
-        <title>Vim命令合集</title>
-        <pubTime>2017-12-21T03:11:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>vim</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/2017left.html</loc>
-    <lastmod>2018-06-20T10:24:45.000Z</lastmod>
-    <data>
-        <display>
-        <title>2017年，仅剩60天不到了</title>
-        <pubTime>2017-11-06T15:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-11.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十一） 自定义装配参数</title>
-        <pubTime>2018-02-23T02:08:12.000Z</pubTime>
+        <title>学习Spring Boot：（四）应用日志</title>
+        <pubTime>2018-02-23T02:08:05.000Z</pubTime>
         
         <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/2018-first.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>2018的第一篇献给自己</title>
-        <pubTime>2018-01-01T15:22:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20180325.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>赏花，赏色，赏……</title>
-        <pubTime>2018-03-25T15:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/2018happy-new-year.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>2018 新年快乐</title>
-        <pubTime>2018-02-15T17:11:03.000Z</pubTime>
-        
-        <tag>想法</tag>
-         
-         
-           
-             
-              <breadCrumb title="想法" url="http://blog.wuwii.com/categories/%E6%83%B3%E6%B3%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/JAVA_Bitwise_Operators.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java中位运算符</title>
-        <pubTime>2017-08-07T14:21:36.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/a-living-time.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>用一生的时光去守护你</title>
-        <pubTime>2017-11-23T14:08:03.000Z</pubTime>
-        
-        <tag>故事</tag>
-         
-         
-           
-             
-              <breadCrumb title="分享" url="http://blog.wuwii.com/categories/%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/algolia.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>集成algolia搜索</title>
-        <pubTime>2017-11-26T15:08:03.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/angels-wear-white.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>《嘉年华》的一点感想</title>
-        <pubTime>2017-11-28T14:08:03.000Z</pubTime>
-        
-        <tag>电影</tag>
-         
-         
-           
-             
-              <breadCrumb title="随随便便" url="http://blog.wuwii.com/categories/%E9%9A%8F%E9%9A%8F%E4%BE%BF%E4%BE%BF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/byte.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>高四位，低四位</title>
-        <pubTime>2017-09-23T15:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/cherish-her.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>珍惜</title>
-        <pubTime>2017-10-24T14:08:03.000Z</pubTime>
-        
-        <tag>桔子</tag>
-         
-         
-           
-             
-              <breadCrumb title="那些很美的句子" url="http://blog.wuwii.com/categories/%E9%82%A3%E4%BA%9B%E5%BE%88%E7%BE%8E%E7%9A%84%E5%8F%A5%E5%AD%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/compiler-version.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Intellij Idea 的maven 项目设置 默认java编译版本</title>
-        <pubTime>2017-10-20T03:28:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/custom-log.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Log4j格式输出工具类</title>
-        <pubTime>2017-10-17T03:28:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>log4j</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/doby4-install.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>WIN10家庭版安装Doby 4</title>
-        <pubTime>2017-10-03T06:08:03.000Z</pubTime>
-        
-        <tag>doby</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/docker-install.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>安装 Docker</title>
-        <pubTime>2018-03-13T03:11:03.000Z</pubTime>
-        
-        <tag>Docker</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/docker-jenkins.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用 Docker 安装 Jenkins</title>
-        <pubTime>2018-04-09T14:12:03.000Z</pubTime>
-        
-        <tag>Docker</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/donot-trouble.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>最想的人是你，最不想打扰的也是你</title>
-        <pubTime>2017-10-29T13:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/easyui-validate-datebox.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>easyui完成日期验证，控制日期的输入范围</title>
-        <pubTime>2017-10-11T02:08:03.000Z</pubTime>
-        
-        <tag>Web前端</tag>
-         
-        <tag>easyui</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/enumeration-package-design.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>枚举的封装设计</title>
-        <pubTime>2017-09-04T15:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>枚举</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/eureka-server.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习 Spring Cloud：（一）Eureka  服务发现与注册</title>
-        <pubTime>2018-04-06T14:11:03.000Z</pubTime>
-        
-        <tag>Spring Cloud</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/fetter-tears.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>念</title>
-        <pubTime>2017-07-18T14:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/first-quit-job.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>关于辞职</title>
-        <pubTime>2017-08-18T15:08:03.000Z</pubTime>
-        
-        <tag>辞职</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/floating-life.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>《浮生》-- 歌词</title>
-        <pubTime>2017-09-28T15:08:03.000Z</pubTime>
-        
-        <tag>歌词</tag>
-         
-         
-           
-             
-              <breadCrumb title="那些很美的句子" url="http://blog.wuwii.com/categories/%E9%82%A3%E4%BA%9B%E5%BE%88%E7%BE%8E%E7%9A%84%E5%8F%A5%E5%AD%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/fork-join.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用 Fork Join 框架</title>
-        <pubTime>2018-03-21T15:11:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/frightened.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20171125</title>
-        <pubTime>2017-11-25T15:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/gps2utc.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用java将gps时转换为utc时间方法</title>
-        <pubTime>2017-10-03T14:28:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/grow-up.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>成长</title>
-        <pubTime>2017-11-10T14:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/gzip-error.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>gzip stdin not in gzip format的错误</title>
-        <pubTime>2017-09-26T14:40:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/hash-crash.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>解决Hash碰撞冲突方法总结</title>
-        <pubTime>2017-11-15T13:08:03.000Z</pubTime>
-        
-        <tag>哈希算法</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/heart00.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>心</title>
-        <pubTime>2017-09-07T15:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/hello-world.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-07-03T02:08:03.000Z</pubTime>
-        
-        <tag>测试下</tag>
-         
-         
-           
-             
-              <breadCrumb title="测试" url="http://blog.wuwii.com/categories/%E6%B5%8B%E8%AF%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/hexo_install_error.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>关于npm install hexo出错</title>
-        <pubTime>2017-08-31T14:43:03.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>npm</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/idea-remote-tomcat.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用IDEA远程部署tomcat和调试</title>
-        <pubTime>2017-12-23T13:08:03.000Z</pubTime>
-        
-        <tag>idea</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/improve-lives-quality.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>提升生活质量的日常方法</title>
-        <pubTime>2017-08-04T02:08:03.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/innocence-year.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>歌词-《清白之年》</title>
-        <pubTime>2017-11-12T07:08:03.000Z</pubTime>
-        
-        <tag>歌词</tag>
-         
-         
-           
-             
-              <breadCrumb title="那些很美的句子" url="http://blog.wuwii.com/categories/%E9%82%A3%E4%BA%9B%E5%BE%88%E7%BE%8E%E7%9A%84%E5%8F%A5%E5%AD%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/install-skip-test.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用Intellij 打包maven 项目，忽略单元测试代码</title>
-        <pubTime>2017-10-15T07:40:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-copyonwrite.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>并发容器CopyOnWriteArrayList</title>
-        <pubTime>2017-11-26T13:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-hashcode.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java 中 hashCode 的一些研究</title>
-        <pubTime>2018-05-15T14:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-no-dialect-mapping.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>No Dialect mapping for JDBC type 的问题</title>
-        <pubTime>2017-12-11T10:38:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-stack.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java的顺序栈和链式栈</title>
-        <pubTime>2017-12-15T10:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>数据结构和算法</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-synchronized.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java多线程中synchronized</title>
-        <pubTime>2017-11-05T02:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-thread-return.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java中使用有返回值的线程</title>
-        <pubTime>2017-11-01T02:18:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-threadlocal.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java并发编程中ThreadLocal</title>
-        <pubTime>2017-11-24T17:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/jpa-query-muti.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>JPA多表查询的解决办法</title>
-        <pubTime>2017-11-09T09:50:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>jpa</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/jiao-hun-awakening.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>叫魂</title>
-        <pubTime>2017-09-05T12:08:03.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-        <tag>奇异</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/jpa-spatial.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Spring Data JPA 中使用空间数据</title>
-        <pubTime>2018-05-04T14:08:03.000Z</pubTime>
-        
-        <tag>jpa</tag>
-         
-        <tag>Spring</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/js-array.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>JavaScript和jQuery中forEach和each的用法，以及各种遍历的使用</title>
-        <pubTime>2017-10-10T13:28:03.000Z</pubTime>
-        
-        <tag>JavaScript</tag>
-         
-        <tag>jQuery</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/junitgenerator.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Intellij使用JUnitGenerator V2.0自动生成单元测试代码</title>
-        <pubTime>2017-10-15T11:19:03.000Z</pubTime>
-        
-        <tag>Intellij</tag>
-         
-        <tag>JUnitGenerator</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/kaifu-love-story.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>分享：李开复：我的爱情故事</title>
-        <pubTime>2017-09-03T14:38:03.000Z</pubTime>
-        
-        <tag>李开复</tag>
-         
-        <tag>感情</tag>
-         
-         
-           
-             
-              <breadCrumb title="分享" url="http://blog.wuwii.com/categories/%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/later-after.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>以后的生活</title>
-        <pubTime>2017-11-27T14:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/leaflet-load-googlemap.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>leaflet加载谷歌地图</title>
-        <pubTime>2017-12-07T15:08:03.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>leaflet</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/linux-hostname.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 7 上永久修改hostname</title>
-        <pubTime>2017-10-18T03:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/linux-jdk.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 7 安装JDK和环境变量的配置</title>
-        <pubTime>2017-10-19T03:18:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/linux_user_default_path.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Linux下如何修改用户默认目录</title>
-        <pubTime>2017-08-31T14:16:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/love-of-soft.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>心底最柔软的爱</title>
-        <pubTime>2017-11-29T15:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/maven-jetty.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>如何通过Maven的Jetty插件运行Web工程</title>
-        <pubTime>2017-07-11T14:08:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-        <tag>jetty</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/maven-scope.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Maven Scope定义值说明</title>
-        <pubTime>2017-10-16T03:11:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/maven-error-one.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>maven错误 Plugin execution not covered by lifecycle configuration org.codehaus.mo...</title>
-        <pubTime>2017-09-14T14:44:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/maven-plugins-error.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Maven使用tomcat7-maven-plugin插件run时出现错误： A child container failed during start</title>
-        <pubTime>2017-08-24T14:08:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/maven-tomcat.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>如何通过Maven的Tomcat插件运行Web工程</title>
-        <pubTime>2017-07-11T02:08:03.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-        <tag>tomcat</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/melangolo.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>《苦橙》-- 歌词</title>
-        <pubTime>2017-09-29T12:08:03.000Z</pubTime>
-        
-        <tag>歌词</tag>
-         
-         
-           
-             
-              <breadCrumb title="那些很美的句子" url="http://blog.wuwii.com/categories/%E9%82%A3%E4%BA%9B%E5%BE%88%E7%BE%8E%E7%9A%84%E5%8F%A5%E5%AD%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/miss-you.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>我想她，是那么的美好吧</title>
-        <pubTime>2017-10-04T04:15:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/mqtt-user.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Mosquitto用户名密码配置</title>
-        <pubTime>2017-09-12T02:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>MQTT</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/multiple-file-upload.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>jQuery实现多文件上传并预览</title>
-        <pubTime>2017-10-07T02:08:03.000Z</pubTime>
-        
-        <tag>Web前端</tag>
-         
-        <tag>JavaScript</tag>
-         
-        <tag>jQuery</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/never-sleeping.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>不眠</title>
-        <pubTime>2017-09-28T14:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/omelette.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20171203</title>
-        <pubTime>2017-12-03T12:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/others-hk.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>他人的面试经历文章</title>
-        <pubTime>2017-11-05T00:08:03.000Z</pubTime>
-        
-        <tag>面试</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/others-post.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>收集点别人总结的文章</title>
-        <pubTime>2018-03-26T07:11:03.000Z</pubTime>
-        
-        <tag>收集</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/postman-upload.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>如何使用postman测试上传文件接口，正确提交文件数据</title>
-        <pubTime>2017-10-10T13:28:03.000Z</pubTime>
-        
-        <tag>postman</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/princekin.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>《小王子》读后感</title>
-        <pubTime>2017-11-21T15:08:03.000Z</pubTime>
-        
-        <tag>小王子</tag>
-         
-         
-           
-             
-              <breadCrumb title="随随便便" url="http://blog.wuwii.com/categories/%E9%9A%8F%E9%9A%8F%E4%BE%BF%E4%BE%BF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/programmer-day.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Programmer's Day</title>
-        <pubTime>2017-10-23T13:18:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/psql-install.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>安装 PostgreSql 和 PostGIS</title>
-        <pubTime>2018-04-19T14:12:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/python-basic-type.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>python中基本数据类型</title>
-        <pubTime>2017-10-26T15:38:03.000Z</pubTime>
-        
-        <tag>python学习之路</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/python-features.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>python的一些高级特性</title>
-        <pubTime>2017-10-30T14:28:03.000Z</pubTime>
-        
-        <tag>python学习之路</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/python-first.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>初识python</title>
-        <pubTime>2017-10-26T15:08:03.000Z</pubTime>
-        
-        <tag>python学习之路</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/qzone.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>关于QQ空间的一点事</title>
-        <pubTime>2017-07-09T12:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/really-love.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>他真的很喜欢你</title>
-        <pubTime>2017-10-14T15:30:03.000Z</pubTime>
-        
-        <tag>他真的很喜欢你</tag>
-         
-         
-           
-             
-              <breadCrumb title="那些很美的句子" url="http://blog.wuwii.com/categories/%E9%82%A3%E4%BA%9B%E5%BE%88%E7%BE%8E%E7%9A%84%E5%8F%A5%E5%AD%90/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/redis.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>redies安装</title>
-        <pubTime>2017-09-26T14:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>redis</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/sensible.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>别太懂事了</title>
-        <pubTime>2017-10-19T14:25:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/restful-api.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>RESTful API 设计指南</title>
-        <pubTime>2018-02-23T02:07:13.000Z</pubTime>
-        
-        <tag>Restful API</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/samba.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>SAMBA共享</title>
-        <pubTime>2017-08-28T14:49:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/seo.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>关于SEO</title>
-        <pubTime>2017-09-24T14:08:03.000Z</pubTime>
-        
-        <tag>SEO</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/setting_static_ip.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 7 静态IP设置</title>
-        <pubTime>2017-08-29T11:35:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/share-sadness.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>我想分享你的悲伤</title>
-        <pubTime>2017-10-07T14:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/shp2pg.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用Geotools导入shp文件到 postgresql</title>
-        <pubTime>2018-02-23T02:07:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>Geotools</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/spring-boot-17.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十七）使用 Redis</title>
-        <pubTime>2018-02-27T14:38:03.000Z</pubTime>
-        
-        <tag>redis</tag>
-         
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/spring-beanutils.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>BeanUtils的复制</title>
-        <pubTime>2017-12-03T14:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/spring-boot-18.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十八）session共享</title>
-        <pubTime>2018-02-27T14:39:03.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20170917.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20170917</title>
-        <pubTime>2017-09-17T14:08:03.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://blog.wuwii.com/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/spring-boot-19.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十九）Shiro 中使用缓存</title>
-        <pubTime>2018-02-28T14:39:03.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-        <tag>shiro</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/spring-schedule.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Spring 中使用定时任务</title>
-        <pubTime>2018-03-15T15:12:03.000Z</pubTime>
-        
-        <tag>Spring</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20171015.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20171015</title>
-        <pubTime>2017-10-15T13:43:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-14.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十四）spring-shiro的密码加密</title>
-        <pubTime>2018-02-23T02:08:15.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-        <tag>shiro</tag>
          
          
            
@@ -2065,7 +66,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/springboot-20.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-19T14:16:58.548Z</lastmod>
     <data>
         <display>
         <title>学习Spring Boot：（二十）使用 MongoDB</title>
@@ -2086,12 +87,34 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-22.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-14.html</loc>
+    <lastmod>2019-12-19T14:16:58.547Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（二十二）使用 AOP</title>
-        <pubTime>2018-03-05T14:08:08.000Z</pubTime>
+        <title>学习Spring Boot：（十四）spring-shiro的密码加密</title>
+        <pubTime>2018-02-23T02:08:15.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+        <tag>shiro</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/springboot-10.html</loc>
+    <lastmod>2019-12-19T14:16:58.546Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十）使用hibernate validation完成数据后端校验</title>
+        <pubTime>2018-02-23T02:08:11.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -2106,32 +129,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/20171017.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-test.html</loc>
+    <lastmod>2019-12-15T15:02:50.251Z</lastmod>
     <data>
         <display>
-        <title>20171017</title>
-        <pubTime>2017-10-17T14:53:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-5.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（五）使用 devtools热部署</title>
-        <pubTime>2018-02-23T02:08:06.000Z</pubTime>
+        <title>学习 Spring Boot：（二十九）Spring Boot Junit 单元测试</title>
+        <pubTime>2018-04-26T14:08:03.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -2146,12 +149,32 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-7.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/tcp-ip.html</loc>
+    <lastmod>2019-12-15T15:02:50.251Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（七）集成Mybatis</title>
-        <pubTime>2018-02-23T02:08:08.000Z</pubTime>
+        <title>TCP IP 学习笔记</title>
+        <pubTime>2018-04-09T14:11:03.000Z</pubTime>
+        
+        <tag>tcp</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/springboot-security.html</loc>
+    <lastmod>2019-12-15T15:02:50.250Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（二十八）Spring Security 权限认证</title>
+        <pubTime>2018-04-22T14:12:03.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -2166,12 +189,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-8.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-properties.html</loc>
+    <lastmod>2019-12-15T15:02:50.249Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（八）Mybatis使用分页插件PageHelper</title>
-        <pubTime>2018-02-23T02:08:03.000Z</pubTime>
+        <title>Spring Boot常用应用程序属性</title>
+        <pubTime>2018-02-23T02:08:04.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -2179,26 +202,6 @@
            
              
               <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20171018.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20171018</title>
-        <pubTime>2017-10-18T13:53:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
           
         </display>
     </data>
@@ -2207,7 +210,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/springboot-actuator.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.248Z</lastmod>
     <data>
         <display>
         <title>学习Spring Boot：（二十七）Spring Boot 2.0 中使用 Actuator</title>
@@ -2227,7 +230,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/springboot-9.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.248Z</lastmod>
     <data>
         <display>
         <title>学习Spring Boot：（九）统一异常处理</title>
@@ -2246,936 +249,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/test.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-7.html</loc>
+    <lastmod>2019-12-15T15:02:50.247Z</lastmod>
     <data>
         <display>
-        <title>关于博客改动</title>
-        <pubTime>2017-07-04T02:08:03.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/thinking-boy.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>请告诉女儿：嫁人就嫁心机男</title>
-        <pubTime>2017-10-03T02:08:03.000Z</pubTime>
-        
-        <tag>感情</tag>
-         
-         
-           
-             
-              <breadCrumb title="分享" url="http://blog.wuwii.com/categories/%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/to-self.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>随便写点</title>
-        <pubTime>2017-10-02T08:29:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/tobe-gentle.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>做个温柔的人</title>
-        <pubTime>2017-11-05T13:51:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/tomcat-error01.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>CENTOS 7 中报错 java.net.ConnectException Connection refused</title>
-        <pubTime>2017-10-12T12:08:03.000Z</pubTime>
-        
-        <tag>tomcat</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/trend.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>一叶知秋</title>
-        <pubTime>2017-10-08T15:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/vm-static-ip.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>VM 使用 NAT 方式给 CentOS 设置静态 IP</title>
-        <pubTime>2018-03-02T02:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/warm-the-world.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>我想温暖这个有你的世界</title>
-        <pubTime>2017-10-08T15:08:03.000Z</pubTime>
-        
-        <tag>故事</tag>
-         
-         
-           
-             
-              <breadCrumb title="分享" url="http://blog.wuwii.com/categories/%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/wh-romance.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>这些只属于武汉的浪漫，看完幸福感爆棚</title>
-        <pubTime>2017-10-05T10:08:03.000Z</pubTime>
-        
-        <tag>生活</tag>
-         
-        <tag>武汉</tag>
-         
-         
-           
-             
-              <breadCrumb title="分享" url="http://blog.wuwii.com/categories/%E5%88%86%E4%BA%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/youdao-note.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>关于升级有道云笔记v6.0.0.1</title>
-        <pubTime>2017-10-13T06:08:03.000Z</pubTime>
-        
-        <tag>Youdao Note</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/yunfu-event.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>关于难产孕妇跳楼事件</title>
-        <pubTime>2017-09-06T14:48:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://blog.wuwii.com/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20171107.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20171107</title>
-        <pubTime>2017-11-07T15:12:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/TravisCI.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Travis CI 持续集成</title>
-        <pubTime>2017-10-02T15:08:03.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>Travis CI</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/catch-jedis.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java客户端使用Jedis操作Redis</title>
-        <pubTime>2017-10-13T07:38:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>redis</tag>
-         
-        <tag>jedis</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/centos-fastDFS.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>搭建fastDFS单实例服务器</title>
-        <pubTime>2017-07-18T02:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>fastDFS</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/consistent-hashing.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>理解一致性哈希算法(consistent hashing)</title>
-        <pubTime>2017-11-15T06:14:03.000Z</pubTime>
-        
-        <tag>哈希算法</tag>
-         
-        <tag>算法</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/easyui-combotree.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Easyui异步ComboTree加载到指定子节点展开</title>
-        <pubTime>2017-11-22T15:08:03.000Z</pubTime>
-        
-        <tag>Web前端</tag>
-         
-        <tag>easyui</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/geotools-over-analyze.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Geotools做个最简单叠加分析</title>
-        <pubTime>2017-09-07T09:51:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>Geotools</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/fsds-java.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>fastDFS与java整合文件上传下载</title>
-        <pubTime>2017-07-20T02:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>fastDFS</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/hadoop-miss-winutils.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Windows下调试Hadoop集群报错Failed to find winutils.exe</title>
-        <pubTime>2017-10-27T03:48:03.000Z</pubTime>
-        
-        <tag>Hadoop</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/http-power.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>理解 HTTP 幂等性</title>
-        <pubTime>2018-02-23T02:07:23.000Z</pubTime>
-        
-        <tag>http</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/install-mongodb.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>安装 MongoDB</title>
-        <pubTime>2018-03-01T02:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>mongodb</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/install-mosquitto.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS 7 下安装mosquitto</title>
-        <pubTime>2017-09-11T14:24:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>MQTT</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-blocking.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>阻塞队列</title>
-        <pubTime>2017-12-28T08:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-create-pool.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java中创建线程池的常用方法</title>
-        <pubTime>2017-11-01T09:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-lambda.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java 8中 lambda 表达式和 function包的函数式接口</title>
-        <pubTime>2017-10-20T09:18:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>lambda</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-log4j.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java中Log4j的使用及配置详情</title>
-        <pubTime>2017-10-16T14:47:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>log4j</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-module.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>初探Java 9 的的模块化</title>
-        <pubTime>2017-12-29T09:28:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-queue.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java中队列</title>
-        <pubTime>2017-12-17T07:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>数据结构和算法</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-optional.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java 8 Optional类的分析与使用</title>
-        <pubTime>2017-11-12T13:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-mqtt.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>MQTT在JAVA中使用</title>
-        <pubTime>2017-09-12T10:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>MQTT</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-thread-cooperation.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java并发编程：线程间协作的两种方式：wait、notify、notifyAll和Condition</title>
-        <pubTime>2017-12-06T09:28:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-transactional.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>事务的特性和@Transactional注解的使用</title>
-        <pubTime>2017-11-30T08:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/log-error.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>log4j WARN No appenders could be found for logger</title>
-        <pubTime>2017-10-08T14:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>log4j</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20171111.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>20171111</title>
-        <pubTime>2017-11-11T13:11:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/micro-service.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>《微服务》九大特性笔记</title>
-        <pubTime>2018-02-23T02:09:03.000Z</pubTime>
-        
-        <tag>微服务</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/mongodb-auth.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>MongoDB 3.4 的用户认证</title>
-        <pubTime>2018-03-03T02:08:03.000Z</pubTime>
-        
-        <tag>mongodb</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/python-function.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>python中函数</title>
-        <pubTime>2017-10-29T13:48:03.000Z</pubTime>
-        
-        <tag>python学习之路</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/python-list.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>python中集合列表和dict、set</title>
-        <pubTime>2017-10-27T14:13:03.000Z</pubTime>
-        
-        <tag>python学习之路</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/redis-lock.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用Redis完成分布式锁</title>
-        <pubTime>2017-11-20T14:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>redis</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/shiro-1.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习 Apache Shiro 架构</title>
-        <pubTime>2018-02-23T02:08:18.000Z</pubTime>
-        
-        <tag>shiro</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/shiro-2.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Apache Shiro的拦截器和认证</title>
-        <pubTime>2018-02-23T02:08:19.000Z</pubTime>
-        
-        <tag>shiro</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/shiro-jwt.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（十六）使用Shiro与JWT 实现认证服务</title>
-        <pubTime>2018-02-26T15:08:03.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-        <tag>shiro</tag>
-         
-        <tag>jwt</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/spring-test.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>使用spring-test 结合JUnit完成单元测试</title>
-        <pubTime>2017-10-16T06:33:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>JUnit</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-1.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（一）入门</title>
-        <pubTime>2018-02-23T02:08:01.000Z</pubTime>
+        <title>学习Spring Boot：（七）集成Mybatis</title>
+        <pubTime>2018-02-23T02:08:08.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -3190,12 +269,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-10.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-5.html</loc>
+    <lastmod>2019-12-15T15:02:50.246Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（十）使用hibernate validation完成数据后端校验</title>
-        <pubTime>2018-02-23T02:08:11.000Z</pubTime>
+        <title>学习Spring Boot：（五）使用 devtools热部署</title>
+        <pubTime>2018-02-23T02:08:06.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -3210,74 +289,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-12.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-3.html</loc>
+    <lastmod>2019-12-15T15:02:50.245Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（十二）Mybatis 中自定义枚举转换器</title>
-        <pubTime>2018-02-23T02:08:13.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-2.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（二）启动原理</title>
-        <pubTime>2018-02-23T02:08:02.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-23.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（二十三）Spring Boot 中使用 Docker</title>
-        <pubTime>2018-03-13T14:12:03.000Z</pubTime>
-        
-        <tag>Docker</tag>
-         
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-24.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（二十四）多数据源配置与使用</title>
-        <pubTime>2018-03-15T14:12:03.000Z</pubTime>
+        <title>学习Spring Boot：（三）配置文件</title>
+        <pubTime>2018-02-23T02:08:03.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -3293,7 +310,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/springboot-26.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.245Z</lastmod>
     <data>
         <display>
         <title>学习Spring Boot：（二十六）使用 RabbitMQ 消息队列</title>
@@ -3314,12 +331,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-3.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-24.html</loc>
+    <lastmod>2019-12-15T15:02:50.244Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（三）配置文件</title>
-        <pubTime>2018-02-23T02:08:03.000Z</pubTime>
+        <title>学习Spring Boot：（二十四）多数据源配置与使用</title>
+        <pubTime>2018-03-15T14:12:03.000Z</pubTime>
         
         <tag>Spring Boot</tag>
          
@@ -3334,218 +351,14 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/20171117.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-25.html</loc>
+    <lastmod>2019-12-15T15:02:50.244Z</lastmod>
     <data>
         <display>
-        <title>20171117</title>
-        <pubTime>2017-11-17T14:08:03.000Z</pubTime>
+        <title>学习Spring Boot：（二十五）使用 Redis 实现数据缓存</title>
+        <pubTime>2018-03-17T14:08:08.000Z</pubTime>
         
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-4.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（四）应用日志</title>
-        <pubTime>2018-02-23T02:08:05.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/springboot-6.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>学习Spring Boot：（六） 集成Swagger2</title>
-        <pubTime>2018-02-23T02:08:03.000Z</pubTime>
-        
-        <tag>Spring Boot</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/system-design.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>System Design</title>
-        <pubTime>2017-12-22T02:08:03.000Z</pubTime>
-        
-        <tag>system</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/user-daemon-thread.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java中守护线程的总结</title>
-        <pubTime>2017-11-01T06:28:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/vsftpd.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>linux上搭建ftp服务器</title>
-        <pubTime>2017-08-30T14:08:03.000Z</pubTime>
-        
-        <tag>linux</tag>
-         
-        <tag>ftp</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-arraylist.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java 8 中ArrayList源码分析</title>
-        <pubTime>2017-11-04T13:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-linkedlist.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java 8 中 LinkedList 源码阅读记录</title>
-        <pubTime>2018-05-11T14:08:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-lock.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>Java多线程中Lock</title>
-        <pubTime>2017-11-05T06:48:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/20171120.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>我的蛋碎了一个</title>
-        <pubTime>2017-11-21T14:08:03.000Z</pubTime>
-        
-        <tag>心情</tag>
-         
-         
-           
-             
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/jpa-specification.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>JPA 使用 Specification 复杂查询和 Criteria 查询</title>
-        <pubTime>2018-03-08T14:08:03.000Z</pubTime>
-        
-        <tag>jpa</tag>
+        <tag>redis</tag>
          
         <tag>Spring Boot</tag>
          
@@ -3560,16 +373,16 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/linux-hadoop.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-23.html</loc>
+    <lastmod>2019-12-15T15:02:50.244Z</lastmod>
     <data>
         <display>
-        <title>CentOS 7 上安装Hadoop V 2.8.1集群及配置</title>
-        <pubTime>2017-10-19T08:08:03.000Z</pubTime>
+        <title>学习Spring Boot：（二十三）Spring Boot 中使用 Docker</title>
+        <pubTime>2018-03-13T14:12:03.000Z</pubTime>
         
-        <tag>linux</tag>
+        <tag>Docker</tag>
          
-        <tag>Hadoop</tag>
+        <tag>Spring Boot</tag>
          
          
            
@@ -3582,16 +395,14 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/rabbitmq-base.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-21.html</loc>
+    <lastmod>2019-12-15T15:02:50.243Z</lastmod>
     <data>
         <display>
-        <title>学习 RabbitMQ 的基础</title>
-        <pubTime>2018-03-18T14:08:08.000Z</pubTime>
+        <title>学习Spring Boot：（二十一）使用 EhCache 实现数据缓存</title>
+        <pubTime>2018-03-04T14:08:08.000Z</pubTime>
         
-        <tag>RabbitMQ</tag>
-         
-        <tag>消息队列</tag>
+        <tag>Spring Boot</tag>
          
          
            
@@ -3604,14 +415,74 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/sort-algorithm.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-22.html</loc>
+    <lastmod>2019-12-15T15:02:50.243Z</lastmod>
     <data>
         <display>
-        <title>学习几种简单排序算法</title>
-        <pubTime>2018-02-23T14:30:03.000Z</pubTime>
+        <title>学习Spring Boot：（二十二）使用 AOP</title>
+        <pubTime>2018-03-05T14:08:08.000Z</pubTime>
         
-        <tag>数据结构和算法</tag>
+        <tag>Spring Boot</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/springboot-15.html</loc>
+    <lastmod>2019-12-15T15:02:50.242Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十五）使用Lombok来优雅的编码</title>
+        <pubTime>2018-02-23T02:08:16.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/springboot-2.html</loc>
+    <lastmod>2019-12-15T15:02:50.242Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（二）启动原理</title>
+        <pubTime>2018-02-23T02:08:02.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/springboot-12.html</loc>
+    <lastmod>2019-12-15T15:02:50.241Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十二）Mybatis 中自定义枚举转换器</title>
+        <pubTime>2018-02-23T02:08:13.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
          
          
            
@@ -3625,7 +496,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/springboot-13.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.241Z</lastmod>
     <data>
         <display>
         <title>学习Spring Boot：（十三）配置 Shiro 权限认证</title>
@@ -3646,8 +517,28 @@
 
     
   <url>
+    <loc>http://blog.wuwii.com/springboot-11.html</loc>
+    <lastmod>2019-12-15T15:02:50.240Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十一） 自定义装配参数</title>
+        <pubTime>2018-02-23T02:08:12.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.wuwii.com/spring-config.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.239Z</lastmod>
     <data>
         <display>
         <title>Spring中使用Configuration注入Bean</title>
@@ -3666,14 +557,14 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/tcp-ip.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/springboot-1.html</loc>
+    <lastmod>2019-12-15T15:02:50.239Z</lastmod>
     <data>
         <display>
-        <title>TCP IP 学习笔记</title>
-        <pubTime>2018-04-09T14:11:03.000Z</pubTime>
+        <title>学习Spring Boot：（一）入门</title>
+        <pubTime>2018-02-23T02:08:01.000Z</pubTime>
         
-        <tag>tcp</tag>
+        <tag>Spring Boot</tag>
          
          
            
@@ -3686,12 +577,322 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/alibaba-java-prochip.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/spring-schedule.html</loc>
+    <lastmod>2019-12-15T15:02:50.239Z</lastmod>
     <data>
         <display>
-        <title>阿里巴巴Java开发手册中容易踩的坑</title>
-        <pubTime>2017-12-06T03:48:03.000Z</pubTime>
+        <title>Spring 中使用定时任务</title>
+        <pubTime>2018-03-15T15:12:03.000Z</pubTime>
+        
+        <tag>Spring</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/spring-boot-18.html</loc>
+    <lastmod>2019-12-15T15:02:50.238Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十八）session共享</title>
+        <pubTime>2018-02-27T14:39:03.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/spring-boot-19.html</loc>
+    <lastmod>2019-12-15T15:02:50.238Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十九）Shiro 中使用缓存</title>
+        <pubTime>2018-02-28T14:39:03.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+        <tag>shiro</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/spring-boot-17.html</loc>
+    <lastmod>2019-12-15T15:02:50.238Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十七）使用 Redis</title>
+        <pubTime>2018-02-27T14:38:03.000Z</pubTime>
+        
+        <tag>redis</tag>
+         
+        <tag>Spring Boot</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/sort-algorithm.html</loc>
+    <lastmod>2019-12-15T15:02:50.237Z</lastmod>
+    <data>
+        <display>
+        <title>学习几种简单排序算法</title>
+        <pubTime>2018-02-23T14:30:03.000Z</pubTime>
+        
+        <tag>数据结构和算法</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/shiro-jwt.html</loc>
+    <lastmod>2019-12-15T15:02:50.237Z</lastmod>
+    <data>
+        <display>
+        <title>学习Spring Boot：（十六）使用Shiro与JWT 实现认证服务</title>
+        <pubTime>2018-02-26T15:08:03.000Z</pubTime>
+        
+        <tag>Spring Boot</tag>
+         
+        <tag>shiro</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/shiro-2.html</loc>
+    <lastmod>2019-12-15T15:02:50.236Z</lastmod>
+    <data>
+        <display>
+        <title>Apache Shiro的拦截器和认证</title>
+        <pubTime>2018-02-23T02:08:19.000Z</pubTime>
+        
+        <tag>shiro</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/shiro-1.html</loc>
+    <lastmod>2019-12-15T15:02:50.236Z</lastmod>
+    <data>
+        <display>
+        <title>学习 Apache Shiro 架构</title>
+        <pubTime>2018-02-23T02:08:18.000Z</pubTime>
+        
+        <tag>shiro</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/restful-api.html</loc>
+    <lastmod>2019-12-15T15:02:50.236Z</lastmod>
+    <data>
+        <display>
+        <title>RESTful API 设计指南</title>
+        <pubTime>2018-02-23T02:07:13.000Z</pubTime>
+        
+        <tag>Restful API</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/redis.html</loc>
+    <lastmod>2019-12-15T15:02:50.235Z</lastmod>
+    <data>
+        <display>
+        <title>redies安装</title>
+        <pubTime>2017-09-26T14:08:03.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>redis</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/redis-lock.html</loc>
+    <lastmod>2019-12-15T15:02:50.235Z</lastmod>
+    <data>
+        <display>
+        <title>使用Redis完成分布式锁</title>
+        <pubTime>2017-11-20T14:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>redis</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/mqtt-user.html</loc>
+    <lastmod>2019-12-15T15:02:50.234Z</lastmod>
+    <data>
+        <display>
+        <title>Mosquitto用户名密码配置</title>
+        <pubTime>2017-09-12T02:08:03.000Z</pubTime>
+        
+        <tag>mq</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/rabbitmq-base.html</loc>
+    <lastmod>2019-12-15T15:02:50.234Z</lastmod>
+    <data>
+        <display>
+        <title>学习 RabbitMQ 的基础</title>
+        <pubTime>2018-03-18T14:08:08.000Z</pubTime>
+        
+        <tag>mq</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/maven-scope.html</loc>
+    <lastmod>2019-12-15T15:02:50.233Z</lastmod>
+    <data>
+        <display>
+        <title>Maven Scope定义值说明</title>
+        <pubTime>2017-10-16T03:11:03.000Z</pubTime>
+        
+        <tag>maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/linux-vim.html</loc>
+    <lastmod>2019-12-15T15:02:50.233Z</lastmod>
+    <data>
+        <display>
+        <title>Vim命令合集</title>
+        <pubTime>2017-12-21T03:11:03.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/linux-hadoop.html</loc>
+    <lastmod>2019-12-15T15:02:50.232Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 7 上安装Hadoop V 2.8.1集群及配置</title>
+        <pubTime>2017-10-19T08:08:03.000Z</pubTime>
         
         <tag>java</tag>
          
@@ -3706,38 +907,16 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/java-tasker.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/jpa-specification.html</loc>
+    <lastmod>2019-12-15T15:02:50.230Z</lastmod>
     <data>
         <display>
-        <title>Java并发编程：Timer和TimerTask（转载）</title>
-        <pubTime>2017-12-23T15:48:03.000Z</pubTime>
+        <title>JPA 使用 Specification 复杂查询和 Criteria 查询</title>
+        <pubTime>2018-03-08T14:08:03.000Z</pubTime>
         
-        <tag>java</tag>
+        <tag>jpa</tag>
          
-        <tag>并发编程</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.wuwii.com/java-xss-filter.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
-    <data>
-        <display>
-        <title>XSS攻击过滤处理</title>
-        <pubTime>2017-12-14T02:28:03.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>xss</tag>
+        <tag>Spring Boot</tag>
          
          
            
@@ -3751,7 +930,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/juc-utils.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.230Z</lastmod>
     <data>
         <display>
         <title>Java 中的并发工具类</title>
@@ -3772,14 +951,16 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-test.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/jpa-spatial.html</loc>
+    <lastmod>2019-12-15T15:02:50.229Z</lastmod>
     <data>
         <display>
-        <title>学习 Spring Boot：（二十九）Spring Boot Junit 单元测试</title>
-        <pubTime>2018-04-26T14:08:03.000Z</pubTime>
+        <title>Spring Data JPA 中使用空间数据</title>
+        <pubTime>2018-05-04T14:08:03.000Z</pubTime>
         
-        <tag>Spring Boot</tag>
+        <tag>jpa</tag>
+         
+        <tag>Spring</tag>
          
          
            
@@ -3792,16 +973,16 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/java-concurrent-thread-pool.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/jpa-query-muti.html</loc>
+    <lastmod>2019-12-15T15:02:50.229Z</lastmod>
     <data>
         <display>
-        <title>Java并发编程中线程池源码分析及使用</title>
-        <pubTime>2017-10-31T08:38:03.000Z</pubTime>
+        <title>JPA多表查询的解决办法</title>
+        <pubTime>2017-11-09T09:50:03.000Z</pubTime>
         
         <tag>java</tag>
          
-        <tag>并发编程</tag>
+        <tag>jpa</tag>
          
          
            
@@ -3814,12 +995,12 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/java-hashmap.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/java-transactional.html</loc>
+    <lastmod>2019-12-15T15:02:50.228Z</lastmod>
     <data>
         <display>
-        <title>Java 8 中HashMap源码分析</title>
-        <pubTime>2017-11-16T03:08:03.000Z</pubTime>
+        <title>事务的特性和@Transactional注解的使用</title>
+        <pubTime>2017-11-30T08:08:03.000Z</pubTime>
         
         <tag>java</tag>
          
@@ -3835,7 +1016,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/java-volatile.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.228Z</lastmod>
     <data>
         <display>
         <title>volatile关键字解析</title>
@@ -3856,14 +1037,308 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-security.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/java-threadlocal.html</loc>
+    <lastmod>2019-12-15T15:02:50.227Z</lastmod>
     <data>
         <display>
-        <title>学习Spring Boot：（二十八）Spring Security 权限认证</title>
-        <pubTime>2018-04-22T14:12:03.000Z</pubTime>
+        <title>Java并发编程中ThreadLocal</title>
+        <pubTime>2017-11-24T17:08:03.000Z</pubTime>
         
-        <tag>Spring Boot</tag>
+        <tag>java</tag>
+         
+        <tag>并发编程</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-thread-return.html</loc>
+    <lastmod>2019-12-15T15:02:50.226Z</lastmod>
+    <data>
+        <display>
+        <title>Java中使用有返回值的线程</title>
+        <pubTime>2017-11-01T02:18:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>并发编程</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-synchronized.html</loc>
+    <lastmod>2019-12-15T15:02:50.226Z</lastmod>
+    <data>
+        <display>
+        <title>Java多线程中synchronized</title>
+        <pubTime>2017-11-05T02:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>并发编程</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-thread-cooperation.html</loc>
+    <lastmod>2019-12-15T15:02:50.226Z</lastmod>
+    <data>
+        <display>
+        <title>Java并发编程：线程间协作的两种方式：wait、notify、notifyAll和Condition</title>
+        <pubTime>2017-12-06T09:28:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>并发编程</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-optional.html</loc>
+    <lastmod>2019-12-15T15:02:50.225Z</lastmod>
+    <data>
+        <display>
+        <title>Java 8 Optional类的分析与使用</title>
+        <pubTime>2017-11-12T13:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-stream.html</loc>
+    <lastmod>2019-12-15T15:02:50.225Z</lastmod>
+    <data>
+        <display>
+        <title>Java8 新特性Stream 的学习和使用方法</title>
+        <pubTime>2017-10-25T14:18:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-mqtt.html</loc>
+    <lastmod>2019-12-15T15:02:50.224Z</lastmod>
+    <data>
+        <display>
+        <title>MQTT在JAVA中使用</title>
+        <pubTime>2017-09-12T10:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>mq</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-module.html</loc>
+    <lastmod>2019-12-15T15:02:50.224Z</lastmod>
+    <data>
+        <display>
+        <title>初探Java 9 的的模块化</title>
+        <pubTime>2017-12-29T09:28:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-log4j.html</loc>
+    <lastmod>2019-12-15T15:02:50.224Z</lastmod>
+    <data>
+        <display>
+        <title>Java中Log4j的使用及配置详情</title>
+        <pubTime>2017-10-16T14:47:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-lock.html</loc>
+    <lastmod>2019-12-15T15:02:50.223Z</lastmod>
+    <data>
+        <display>
+        <title>Java多线程中Lock</title>
+        <pubTime>2017-11-05T06:48:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>并发编程</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-linkedlist.html</loc>
+    <lastmod>2019-12-15T15:02:50.223Z</lastmod>
+    <data>
+        <display>
+        <title>Java 8 中 LinkedList 源码阅读记录</title>
+        <pubTime>2018-05-11T14:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-lambda.html</loc>
+    <lastmod>2019-12-15T15:02:50.222Z</lastmod>
+    <data>
+        <display>
+        <title>Java 8中 lambda 表达式和 function包的函数式接口</title>
+        <pubTime>2017-10-20T09:18:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>lambda</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-hashcode.html</loc>
+    <lastmod>2019-12-15T15:02:50.221Z</lastmod>
+    <data>
+        <display>
+        <title>Java 中 hashCode 的一些研究</title>
+        <pubTime>2018-05-15T14:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-hashmap.html</loc>
+    <lastmod>2019-12-15T15:02:50.221Z</lastmod>
+    <data>
+        <display>
+        <title>Java 8 中HashMap源码分析</title>
+        <pubTime>2017-11-16T03:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-create-pool.html</loc>
+    <lastmod>2019-12-15T15:02:50.220Z</lastmod>
+    <data>
+        <display>
+        <title>Java中创建线程池的常用方法</title>
+        <pubTime>2017-11-01T09:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
          
          
            
@@ -3877,7 +1352,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/java-concurrenthashmap.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.220Z</lastmod>
     <data>
         <display>
         <title>并发容器ConcurrentHashMap</title>
@@ -3898,19 +1373,41 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/20171213.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/java-concurrent-thread-pool.html</loc>
+    <lastmod>2019-12-15T15:02:50.219Z</lastmod>
     <data>
         <display>
-        <title>某一个安静的寒冷的夜晚</title>
-        <pubTime>2017-12-13T15:08:03.000Z</pubTime>
+        <title>Java并发编程中线程池源码分析及使用</title>
+        <pubTime>2017-10-31T08:38:03.000Z</pubTime>
         
-        <tag>心情</tag>
+        <tag>java</tag>
+         
+        <tag>并发编程</tag>
          
          
            
              
-              <breadCrumb title="碎碎念" url="http://blog.wuwii.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/java-arraylist.html</loc>
+    <lastmod>2019-12-15T15:02:50.218Z</lastmod>
+    <data>
+        <display>
+        <title>Java 8 中ArrayList源码分析</title>
+        <pubTime>2017-11-04T13:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
           
         </display>
     </data>
@@ -3919,7 +1416,7 @@
     
   <url>
     <loc>http://blog.wuwii.com/java-aqs.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.218Z</lastmod>
     <data>
         <display>
         <title>Java 并发编程同步器 AQS</title>
@@ -3940,8 +1437,192 @@
 
     
   <url>
+    <loc>http://blog.wuwii.com/install-mongodb.html</loc>
+    <lastmod>2019-12-15T15:02:50.216Z</lastmod>
+    <data>
+        <display>
+        <title>安装 MongoDB</title>
+        <pubTime>2018-03-01T02:08:03.000Z</pubTime>
+        
+        <tag>mongodb</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/install-mosquitto.html</loc>
+    <lastmod>2019-12-15T15:02:50.216Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS 7 下安装mosquitto</title>
+        <pubTime>2017-09-11T14:24:03.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>MQTT</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/idea-remote-tomcat.html</loc>
+    <lastmod>2019-12-15T15:02:50.215Z</lastmod>
+    <data>
+        <display>
+        <title>使用IDEA远程部署tomcat和调试</title>
+        <pubTime>2017-12-23T13:08:03.000Z</pubTime>
+        
+        <tag>idea</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/http-power.html</loc>
+    <lastmod>2019-12-15T15:02:50.215Z</lastmod>
+    <data>
+        <display>
+        <title>理解 HTTP 幂等性</title>
+        <pubTime>2018-02-23T02:07:23.000Z</pubTime>
+        
+        <tag>http</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/hash-crash.html</loc>
+    <lastmod>2019-12-15T15:02:50.215Z</lastmod>
+    <data>
+        <display>
+        <title>解决Hash碰撞冲突方法总结</title>
+        <pubTime>2017-11-15T13:08:03.000Z</pubTime>
+        
+        <tag>post</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/fsds-java.html</loc>
+    <lastmod>2019-12-15T15:02:50.214Z</lastmod>
+    <data>
+        <display>
+        <title>fastDFS与java整合文件上传下载</title>
+        <pubTime>2017-07-20T02:08:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>fastDFS</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/fork-join.html</loc>
+    <lastmod>2019-12-15T15:02:50.214Z</lastmod>
+    <data>
+        <display>
+        <title>使用 Fork Join 框架</title>
+        <pubTime>2018-03-21T15:11:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/hadoop-miss-winutils.html</loc>
+    <lastmod>2019-12-15T15:02:50.214Z</lastmod>
+    <data>
+        <display>
+        <title>Windows下调试Hadoop集群报错Failed to find winutils.exe</title>
+        <pubTime>2017-10-27T03:48:03.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/eureka-server.html</loc>
+    <lastmod>2019-12-15T15:02:50.213Z</lastmod>
+    <data>
+        <display>
+        <title>学习 Spring Cloud：（一）Eureka  服务发现与注册</title>
+        <pubTime>2018-04-06T14:11:03.000Z</pubTime>
+        
+        <tag>Spring Cloud</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.wuwii.com/docker-note.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <lastmod>2019-12-15T15:02:50.213Z</lastmod>
     <data>
         <display>
         <title>学习 Docker 笔记</title>
@@ -3960,14 +1641,14 @@
 
     
   <url>
-    <loc>http://blog.wuwii.com/springboot-properties.html</loc>
-    <lastmod>2018-06-18T13:25:59.000Z</lastmod>
+    <loc>http://blog.wuwii.com/docker-install.html</loc>
+    <lastmod>2019-12-15T15:02:50.212Z</lastmod>
     <data>
         <display>
-        <title>Spring Boot常用应用程序属性</title>
-        <pubTime>2018-02-23T02:08:04.000Z</pubTime>
+        <title>安装 Docker</title>
+        <pubTime>2018-03-13T03:11:03.000Z</pubTime>
         
-        <tag>Spring Boot</tag>
+        <tag>Docker</tag>
          
          
            
@@ -3979,6 +1660,47 @@
     </url>
 
     
+  <url>
+    <loc>http://blog.wuwii.com/docker-jenkins.html</loc>
+    <lastmod>2019-12-15T15:02:50.212Z</lastmod>
+    <data>
+        <display>
+        <title>使用 Docker 安装 Jenkins</title>
+        <pubTime>2018-04-09T14:12:03.000Z</pubTime>
+        
+        <tag>Docker</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.wuwii.com/consistent-hashing.html</loc>
+    <lastmod>2019-12-15T15:02:50.211Z</lastmod>
+    <data>
+        <display>
+        <title>理解一致性哈希算法(consistent hashing)</title>
+        <pubTime>2017-11-15T06:14:03.000Z</pubTime>
+        
+        <tag>算法</tag>
+         
+        <tag>哈希算法</tag>
+         
+         
+           
+             
+              <breadCrumb title="学习笔记" url="http://blog.wuwii.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
     
     
